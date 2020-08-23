@@ -1,2 +1,4 @@
 # PlayerIslands-Ticket
 PlayerIslandsで使っていたTicketのソースを適当に公開します。
+
+BotのTokenやAPIなどは、セキュリティ的なアレから一部編集しています。
